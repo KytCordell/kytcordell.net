@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Comic artist and Illustrator"
-  cover = "images/cover1.jpg"
+  cover = "images/cover1.png"
   author = "Kyt Cordell"
   authorlocation = "Washington, DC"
   authorwebsite = "http://kytcordell.net"
